@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm sahar shahedi</h1>
-<h3 align="center">A junior frontend developer from Iran</h3>
+<h3 align="center">A junior frontend developer</h3>
 
 - 🔭 I’m currently working on **vue.js framework**
 
