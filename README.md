@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm sahar shahedi</h1>
-<h3 align="center">Junior Frontend Developer</h3>
+<h3 align="center">Frontend Developer</h3>
 
 - 👨‍💻 I’m currently studying **Computer Engineering at Amirkabir University of Technology**
 
-- 🌱 I’m currently learning **kotlin**
-
-- 🔭 I’m currently working on **vue.js framework**
+- 🔭 I’m currently working on **reactjs library**
 
 - 📫 How to reach me **saharr.shahedi@gmail.com**
 
